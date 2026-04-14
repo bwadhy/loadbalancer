@@ -131,7 +131,7 @@ aws s3 cp s3://s3bucketlab13abril/red-root-index.html ./index.html
 
 systemctl restart httpd
 
-![redpage](imagens/redpage.png)
+![redpage](imagens/redpage.jpg)
 
 
 
@@ -161,7 +161,7 @@ aws s3 cp s3://s3bucketlab13abril/blue-root-index.html ./index.html
 
 systemctl restart httpd
 
-![bluepage](imagens/bluepage.png)
+![bluepage](imagens/bluepage.jpg)
 
 
 ```
