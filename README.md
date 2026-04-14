@@ -219,9 +219,10 @@ O ALB realiza:
 ## 🚀 Próximos passos
 
 * Implementar Auto Scaling
-* Automatizar infraestrutura com Terraform
-* Adicionar HTTPS com ACM
-* Restringir acesso das EC2 apenas ao ALB
+* Fazer Host Based Routing e usar o Route 53
+* Automatizar infraestrutura com IaC
+* Adicionar HTTPS
+
 
 ---
 
