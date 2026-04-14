@@ -130,12 +130,8 @@ cd /var/www/html
 aws s3 cp s3://s3bucketlab13abril/red-root-index.html ./index.html
 
 systemctl restart httpd
-
-![redpage](imagens/redpage.jpg)
-
-
-
 ```
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/53af01f9-78ad-45b0-96f2-79fb0beb1430" />
 
 ---
 
@@ -161,10 +157,8 @@ aws s3 cp s3://s3bucketlab13abril/blue-root-index.html ./index.html
 
 systemctl restart httpd
 
-![bluepage](imagens/bluepage.jpg)
-
-
 ```
+<img width="1908" height="933" alt="image" src="https://github.com/user-attachments/assets/e4286795-0bcd-4f50-9c25-ce9b029097fc" />
 
 ---
 
