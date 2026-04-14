@@ -196,7 +196,11 @@ O ALB realiza:
 * Acesso via:
 
   * `/red`
+  ![dnsred](https://github.com/user-attachments/assets/d24d1523-8ea1-4604-a6c2-2c52fcdc11c6)
+
   * `/blue`
+  <img width="1888" height="761" alt="image" src="https://github.com/user-attachments/assets/25225053-918e-452c-9f1a-6865671c534a" />
+
 * Interrupção de instância para validação de failover
 * Verificação de health check
 
